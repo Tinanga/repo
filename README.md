@@ -1,2 +1,2 @@
 # repo
-just fir explaining to others
+just for explaining to others
